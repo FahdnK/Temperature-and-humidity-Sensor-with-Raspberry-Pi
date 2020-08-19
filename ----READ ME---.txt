@@ -1,0 +1,18 @@
+This source code was written in Python Code and has been saved as an .IPYNB format. The source code can only be opened via a IPYNB file viewer or can be exported to a .HTML file.
+
+///---------FILE EXPLANATION---------///
+
+1} Data analysis of temperature and humidity with raspberry     pi.IPYNB
+
+ This code makes up the majority of the sensors' programme
+
+2} DHTSensorData.CSV
+ 
+  This file contains the data gathered by the sensor
+
+3} Test361.IPYNB
+
+  This file contains the packages needed to run the sensor
+
+
+
